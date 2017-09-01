@@ -1,5 +1,12 @@
 TU Web Conference Application
 
+## Contributors ## 
+https://github.com/AnshikaSingh  
+https://github.com/vrattant  
+https://github.com/nitesh12n  
+https://github.com/tusharg1996  
+https://github.com/RupalMittal  
+
 ## Synopsis ##
 
 The application will consist of the following features:  
