@@ -2,21 +2,21 @@ TU Web Conference Application
 
 ## Synopsis ##
 
-The application will consist of the following features:
-1)Allow Users to conduct and participate in meetings & Webinars.
-2)Send Invites to the meeting.
-3)Maintain record of participants.
-4)Notify Users of their scheduled meetings through email.
-5)Maintain Notes and Minutes of Meetings.
-6)Allow Users to give feedbacks and rate Webinars.
-7)Role based User Authentication.
-8)Allow Users to register.
+The application will consist of the following features:  
+1)Allow Users to conduct and participate in meetings & Webinars.  
+2)Send Invites to the meeting.  
+3)Maintain record of participants.  
+4)Notify Users of their scheduled meetings through email.  
+5)Maintain Notes and Minutes of Meetings.  
+6)Allow Users to give feedbacks and rate Webinars.  
+7)Role based User Authentication.  
+8)Allow Users to register.  
 
-The following are the different users and their roles:
+The following are the different users and their roles:  
 
-Admin: Faculty Member(s) responsible for maintaining other users’ profile and updating roles/privileges of other users.
-Conference Head: The owner of the meeting (Faculty Member), who can send invites to other participants, receive feedbacks and make notes associated with the meeting.
-Participants: Other members of the meetings (Faculty Members/Students) who can give feedbacks and read notes associated with meetings.
+Admin: Faculty Member(s) responsible for maintaining other usersâ€™ profile and updating roles/privileges of other users.  
+Conference Head: The owner of the meeting (Faculty Member), who can send invites to other participants, receive feedbacks and make notes associated with the meeting.  
+Participants: Other members of the meetings (Faculty Members/Students) who can give feedbacks and read notes associated with meetings.  
 
 
 ## Motivation ##
@@ -26,19 +26,19 @@ Since the workforce and student strength of Thapar University is increasing at a
 
 ## Technology Stack ## 
 
-Frontend:  Angular 2
-Server: Python, Django and Django Rest Framework
-Database: MySQL
+Frontend:  Angular 2  
+Server: Python, Django and Django Rest Framework  
+Database: MySQL  
 
  A restful web application which has two separate parts will be created .The first is the back end which will be created with Django and the Django REST framework and the second part is the front end which will be built using Angular 2.
 
  
 ## Similar Projects ##
 
-1)GoToMeeting
-2)AnyMeeting
+1)GoToMeeting  
+2)AnyMeeting  
 
-These are the most popular Web Conferencing Software as a Service used in many organisations. TU Web Conferencing Application caters to the needs of Thapar University and several similar colleges and schools where the needs are not as complex as an industrial organisation and are less likely to change in future.
-References: https://www.gotomeeting.com/
+These are the most popular Web Conferencing Software as a Service used in many organisations. TU Web Conferencing Application caters to the needs of Thapar University and several similar colleges and schools where the needs are not as complex as an industrial organisation and are less likely to change in future.  
+References: https://www.gotomeeting.com/  
                     http://www.anymeeting.com/
 
